@@ -8,9 +8,9 @@ import (
 	"net"
 	"strconv"
 
-	"github.com/pavel-z1/phpipam-sdk-go/controllers/subnets"
-	"github.com/pavel-z1/phpipam-sdk-go/phpipam/client"
-	"github.com/pavel-z1/phpipam-sdk-go/phpipam/session"
+	"github.com/nosportugal/phpipam-sdk-go/controllers/subnets"
+	"github.com/nosportugal/phpipam-sdk-go/phpipam/client"
+	"github.com/nosportugal/phpipam-sdk-go/phpipam/session"
 )
 
 // subnetSearchResult is used internally to parse subnet search responses.

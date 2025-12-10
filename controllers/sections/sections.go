@@ -5,10 +5,10 @@ package sections
 import (
 	"fmt"
 
-	"github.com/pavel-z1/phpipam-sdk-go/controllers/subnets"
-	"github.com/pavel-z1/phpipam-sdk-go/phpipam"
-	"github.com/pavel-z1/phpipam-sdk-go/phpipam/client"
-	"github.com/pavel-z1/phpipam-sdk-go/phpipam/session"
+	"github.com/nosportugal/phpipam-sdk-go/controllers/subnets"
+	"github.com/nosportugal/phpipam-sdk-go/phpipam"
+	"github.com/nosportugal/phpipam-sdk-go/phpipam/client"
+	"github.com/nosportugal/phpipam-sdk-go/phpipam/session"
 )
 
 // Section represents a PHPIPAM section.

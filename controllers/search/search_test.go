@@ -6,9 +6,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/pavel-z1/phpipam-sdk-go/controllers/subnets"
-	"github.com/pavel-z1/phpipam-sdk-go/phpipam"
-	"github.com/pavel-z1/phpipam-sdk-go/phpipam/session"
+	"github.com/nosportugal/phpipam-sdk-go/controllers/subnets"
+	"github.com/nosportugal/phpipam-sdk-go/phpipam"
+	"github.com/nosportugal/phpipam-sdk-go/phpipam/session"
 )
 
 const testSearchSubnetsOnlyOutputJSON = `
